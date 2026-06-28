@@ -78,6 +78,7 @@ _Coming soon — submit your favorite workshop map!_
 - 🎮 [Meccha Chameleon on Steam](https://store.steampowered.com/app/4704690/) — official game
 - 🌐 [Meccha Chameleon Art](https://mecchachameleon.art/) — fan-made browser atlas (this list's home base)
 - 🕹️ [Meccha Chameleon Art on itch.io](https://mecchachameleon.itch.io/meccha-chameleon-art) — public directory page for the fan-made atlas
+- 📝 [Fan atlas update on itch.io](https://mecchachameleon.itch.io/meccha-chameleon-art/devlog/1567057/fan-atlas-update-50-hiding-spots-and-map-references-are-live) — public devlog for the 50 hiding spot reference
 - 🧭 [Meccha Chameleon Art Lab on IndieDB](https://www.indiedb.com/games/meccha-chameleon-art-lab-unofficial-fan-made) — IndieDB profile for the unofficial fan atlas
 - 📰 [Fan atlas update on IndieDB](https://www.indiedb.com/games/meccha-chameleon-art-lab-unofficial-fan-made/news/fan-atlas-update-5-map-hiding-spot-reference-is-live) — short update article about the 5-map reference
 - 📖 [Steam Community Guides](https://steamcommunity.com/app/4704690/guides/) — official guides
