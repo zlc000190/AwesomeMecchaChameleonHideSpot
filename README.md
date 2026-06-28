@@ -81,6 +81,7 @@ _Coming soon — submit your favorite workshop map!_
 - 📝 [Fan atlas update on itch.io](https://mecchachameleon.itch.io/meccha-chameleon-art/devlog/1567057/fan-atlas-update-50-hiding-spots-and-map-references-are-live) — public devlog for the 50 hiding spot reference
 - 🧭 [Meccha Chameleon Art Lab on IndieDB](https://www.indiedb.com/games/meccha-chameleon-art-lab-unofficial-fan-made) — IndieDB profile for the unofficial fan atlas
 - 📰 [Fan atlas update on IndieDB](https://www.indiedb.com/games/meccha-chameleon-art-lab-unofficial-fan-made/news/fan-atlas-update-5-map-hiding-spot-reference-is-live) — short update article about the 5-map reference
+- 🛠️ [Browser atlas build note on DEV](https://dev.to/dive-one-person-comp/building-a-tiny-browser-atlas-for-a-hide-and-seek-game-2h61) — short implementation note for the browser atlas
 - 📖 [Steam Community Guides](https://steamcommunity.com/app/4704690/guides/) — official guides
 - 🗄️ [Internet Archive snapshot](https://web.archive.org/web/20260628124540/https://mecchachameleon.art/) — archived copy for long-term reference
 
