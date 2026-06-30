@@ -83,6 +83,7 @@ _Coming soon — submit your favorite workshop map!_
 - 📰 [Fan atlas update on IndieDB](https://www.indiedb.com/games/meccha-chameleon-art-lab-unofficial-fan-made/news/fan-atlas-update-5-map-hiding-spot-reference-is-live) — short update article about the 5-map reference
 - 🗺️ [Meccha Chameleon map links forum](https://www.indiedb.com/games/meccha-chameleon-art-lab-unofficial-fan-made/forum/thread/meccha-chameleon-map-index-and-hiding-spot-pages/) — IndieDB discussion thread linking the map index
 - 🧭 [Meccha Chameleon map index on ModDB](https://www.moddb.com/games/meccha-chameleon-art-lab-unofficial-fan-made/news/meccha-chameleon-map-index-and-fan-made-hiding-spot-references) — ModDB news post for the fan-made map index
+- 🎲 [Meccha Chameleon Map Atlas on GameJolt](https://gamejolt.com/games/meccha-chameleon-map-atlas/1080679) — GameJolt devlog-only page for the fan-made map atlas
 - 🛠️ [Browser atlas build note on DEV](https://dev.to/dive-one-person-comp/building-a-tiny-browser-atlas-for-a-hide-and-seek-game-2h61) — short implementation note for the browser atlas
 - 📌 [Public resource index gist](https://gist.github.com/zlc000190/55d19859ab850bb1b1d1cf4ce8a9ea49) — compact index of public atlas resources
 - 🧾 [Public resource index issue](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot/issues/1) — maintained issue with current public links
