@@ -86,6 +86,7 @@ _Coming soon — submit your favorite workshop map!_
 - 🧾 [Public resource index issue](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot/issues/1) — maintained issue with current public links
 - 🏷️ [Resource index release](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot/releases/tag/resources-index-2026-06-29) — dated release snapshot of the resource index
 - 🌍 [GitHub Pages resource index](https://zlc000190.github.io/AwesomeMecchaChameleonHideSpot/) — standalone public index page
+- 🗺️ [Meccha Chameleon map index](https://mecchachameleon.art/maps) — site map hub with direct map pages
 - 📖 [GitHub wiki resource hub](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot/wiki) — living resource hub and link index
 - 📖 [Steam Community Guides](https://steamcommunity.com/app/4704690/guides/) — official guides
 - 🗄️ [Internet Archive snapshot](https://web.archive.org/web/20260628124540/https://mecchachameleon.art/) — archived copy for long-term reference
