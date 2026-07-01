@@ -78,6 +78,9 @@ _Coming soon — submit your favorite workshop map!_
 - 🎮 [Meccha Chameleon on Steam](https://store.steampowered.com/app/4704690/) — official game
 - 🌐 [Meccha Chameleon Art](https://mecchachameleon.art/) — fan-made browser atlas (this list's home base)
 - 🏠 [Meccha Chameleon homepage resource hub](https://zlc000190.github.io/AwesomeMecchaChameleonHideSpot/homepage.html) — GitHub Pages hub pointing to the main fan-made homepage
+- 🧭 [Meccha Chameleon how to play](https://zlc000190.github.io/AwesomeMecchaChameleonHideSpot/how-to-play.html) — quick starter page that points back to the main homepage
+- 💡 [Meccha Chameleon tips](https://zlc000190.github.io/AwesomeMecchaChameleonHideSpot/tips.html) — camouflage notes and homepage-first guidance
+- 🧩 [Meccha Chameleon mods](https://zlc000190.github.io/AwesomeMecchaChameleonHideSpot/mods.html) — workshop notes and homepage link
 - 🕹️ [Meccha Chameleon Art on itch.io](https://mecchachameleon.itch.io/meccha-chameleon-art) — public directory page for the fan-made atlas
 - 📝 [Fan atlas update on itch.io](https://mecchachameleon.itch.io/meccha-chameleon-art/devlog/1567057/fan-atlas-update-50-hiding-spots-and-map-references-are-live) — public devlog for the 50 hiding spot reference
 - 🧭 [Meccha Chameleon Art Lab on IndieDB](https://www.indiedb.com/games/meccha-chameleon-art-lab-unofficial-fan-made) — IndieDB profile for the unofficial fan atlas
@@ -92,6 +95,9 @@ _Coming soon — submit your favorite workshop map!_
 - 🌍 [GitHub Pages resource index](https://zlc000190.github.io/AwesomeMecchaChameleonHideSpot/) — standalone public index page
 - 🗺️ [Meccha Chameleon map index](https://mecchachameleon.art/maps) — site map hub with direct map pages
 - 📖 [GitHub wiki resource hub](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot/wiki) — living resource hub and link index
+- 📖 [GitHub wiki how to play page](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot/wiki/Meccha-Chameleon-How-To-Play) — starter notes with a homepage link
+- 📖 [GitHub wiki tips page](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot/wiki/Meccha-Chameleon-Tips) — camouflage notes with a homepage link
+- 📖 [GitHub wiki mods page](https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot/wiki/Meccha-Chameleon-Mods) — workshop notes with a homepage link
 - 📖 [Steam Community Guides](https://steamcommunity.com/app/4704690/guides/) — official guides
 - 🗄️ [Internet Archive snapshot](https://web.archive.org/web/20260628124540/https://mecchachameleon.art/) — archived copy for long-term reference
 
